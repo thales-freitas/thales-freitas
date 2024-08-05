@@ -2,7 +2,7 @@
 
 - 👱🏻 I'm 25 years old, brazilian and living in Campina Grande - PB.
 - 🌱 I’m a freelancer web developer.
-- ⚡ I'm Full-Stack Developer.
+- ⚡ I'm a Full-Stack Developer.
 
 ## 💻 Technologies and Tools
 
