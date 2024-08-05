@@ -1,9 +1,8 @@
 ## 👋 Hi there, I'm Thales Freitas
 
-- 👱🏻 I'm 23 years old, brazilian and living in Campina Grande - PB.
-- 🌱 I’m currently studying at Trybe.
-- 🔭 I'm looking to improve my skills as a Technology & Development.
-- ⚡ I'm Front-end Developer, soon-to-be a full stack.
+- 👱🏻 I'm 25 years old, brazilian and living in Campina Grande - PB.
+- 🌱 I’m a freelancer web developer.
+- ⚡ I'm Full-Stack Developer.
 
 ## 💻 Technologies and Tools
 
