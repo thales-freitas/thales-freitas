@@ -25,8 +25,8 @@
 
 <div>
   <div align="center">
-    <img style="display: inline_block" height="180em" src="https://github-readme-stats.vercel.app/api?username=Thales-Vinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img style="display: inline_block" height="180m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales-Vinicius&layout=compact&langs_count=7&theme=tokyonight" />
+    <img style="display: inline_block" height="180em" src="https://github-readme-stats.vercel.app/api?username=thales-freitas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img style="display: inline_block" height="180m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thales-freitas&layout=compact&langs_count=7&theme=tokyonight" />
   </div>
 </div>
 
